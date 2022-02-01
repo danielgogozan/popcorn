@@ -2,7 +2,7 @@
 *Popcorn* is an iOS app that fetches data from [TMDB](https://www.themoviedb.org/) so that the user is able to discover movies and find details about their cast, reviews and other information.
 
 # purpose
-The main challenges of this app was to:
+The main challenges of this app were to:
 - develop a proper **MVVM** architecture
 - understand **Coordinator** pattern
 - understand **RxSwift concepts** in order to fulfill different requirements
