@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Popcorn' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Popcorn
+
+  target 'PopcornTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'RxBlocking'
+    pod 'RxTest'
+  end
+
+  target 'PopcornUITests' do
+    # Pods for testing
+  end
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'SwiftGen'
+  pod 'RxAnimated'
+end

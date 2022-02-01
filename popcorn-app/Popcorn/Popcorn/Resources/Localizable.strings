@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Popcorn
+
+  Created by Daniel Gogozan on 25.11.2021.
+  
+*/
+
+"discoverSection" = "Discover";
+"genreSection" = "Genres";
+"artistSection" = "Artists";

@@ -1,0 +1,18 @@
+strings:
+  inputs: Popcorn/Resources
+  outputs:
+    - templateName: structured-swift5
+      output: Popcorn/Resources/Strings.swift
+xcassets:
+  inputs:
+    - Popcorn/Resources/Images.xcassets
+    - Popcorn/Resources/Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: Popcorn/Resources/Assets.swift
+fonts:
+  inputs:
+    - Popcorn/Resources/fonts
+  outputs:
+    - templateName: swift5
+      output: Popcorn/Resources/Fonts.swift
