@@ -17,7 +17,7 @@ Also the app is using a bunch of custom views, different approaches on collectio
 
 ![App flow](https://i.ibb.co/5hRqCFH/popcorn-screens.jpg)
 
-Clone the project, open Popcorn.xcworkspace, run *pod install* and see the results.
+Clone the project, open Popcorn.xcworkspace, run *pod install*, build&run.
 
 # note
 You will notice some of the buttons having no effect or images with erroneous ratios. This is due to the fact that these are not necessarily the subject of the application which is intended to be more demonstrative of the points mentioned in the purpose section.
