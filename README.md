@@ -3,7 +3,7 @@
 
 # purpose
 The main challenges of this app were to:
-- develop a proper **MVVM** architecture
+- develop a proper **MVVM-C** architecture
 - understand **Coordinator** pattern
 - understand **RxSwift concepts** in order to fulfill different requirements
 - build an abstract and reusable **networking layer**
